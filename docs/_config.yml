@@ -14,9 +14,7 @@ plugins:
 minima:
   skin: classic
   social_links:
-    - title: JD's mail
-      icon: "paper-plane"
-      url: "mailto:mathisdittrich@gmail.com"
+
   hide_site_feed_link: false
 
 # Exclude these files from your production _site
