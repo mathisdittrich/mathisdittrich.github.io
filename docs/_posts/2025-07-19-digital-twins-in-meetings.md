@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I created a digital twin of myself that joins low-value meetings for me"
+title:  "How to create a digital twin of yourself that joins low-value meetings for you"
 date:   2025-07-19 
 ---
 

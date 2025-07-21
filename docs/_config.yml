@@ -1,7 +1,7 @@
 # site-wide settings
-title: A fynnomenal blog
+title: JD's Blog 
 description: >- 
-  A fynnomenal blog about AI stuff, I guess?
+  A blog about AI stuff, experiments and experiences.
 permalink: /:title/
 
 # Build settings
@@ -14,12 +14,9 @@ plugins:
 minima:
   skin: classic
   social_links:
-    - title: fynnomenon on discord
-      icon: discord
-      url: "https://discordapp.com/users/504720288752205827"
-    - title: fynnomenon on X
-      icon: x-twitter
-      url: "https://x.com/fynn_61"
+    - title: JD's mail
+      icon: envelope
+      url: "mailto:mathisdittrich@gmail.com"
   hide_site_feed_link: false
 
 # Exclude these files from your production _site
