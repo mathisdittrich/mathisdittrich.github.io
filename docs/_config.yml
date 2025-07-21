@@ -15,7 +15,7 @@ minima:
   skin: classic
   social_links:
     - title: JD's mail
-      icon: fa-envelope
+      icon: "paper-plane"
       url: "mailto:mathisdittrich@gmail.com"
   hide_site_feed_link: false
 
