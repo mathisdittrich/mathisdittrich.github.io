@@ -13,8 +13,6 @@ plugins:
 # Minima-specific settings (applicable to Minima v3 and above only)
 minima:
   skin: classic
-  social_links:
-
   hide_site_feed_link: false
 
 # Exclude these files from your production _site
